@@ -2,7 +2,7 @@
 
 My name is Eduardo Briguenti Vieira (🇧🇷). I am a software engineer since 2007 and currently working in Amsterdam.
 
-- 🔭 I’m currently working on eduflix. An application done during the 5 days learning immersion videos of [Alura](https://www.alura.com.br).
+- 🔭 I’m currently working on eduflix. An application done during the 5 days learning immersion videos hosted by [Alura](https://www.alura.com.br).
 - 🌱 I’m currently trying to learning different algorithms and ways to improve Systems Design.
 
 Would you like to find me?
