@@ -4,6 +4,7 @@ My name is Eduardo Briguenti Vieira (🇧🇷). I am a software engineer since 2
 
 - 🔭 I’m currently working on eduflix. An application done during the 5 days learning immersion videos hosted by [Alura](https://www.alura.com.br).
 - 🌱 I’m currently trying to learning different algorithms and ways to improve Systems Design.
+
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edubriguenti)](https://www.linkedin.com/in/edubriguenti)
