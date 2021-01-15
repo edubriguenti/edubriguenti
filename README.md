@@ -2,7 +2,6 @@
 
 My name is Eduardo Briguenti Vieira (🇧🇷). 
 
-- 🔭 I’m currently working on eduflix. An application done during the 5 days learning immersion videos hosted by [Alura](https://www.alura.com.br).
 - 🌱 I’m currently trying to learning different algorithms and ways to improve Systems Design.
 
 Would you like to find me?
